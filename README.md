@@ -1,4 +1,4 @@
-# ![Banner](https://imgbox.com/zKIwiQ53)
+# ![Banner](https://github.com/Lasko73/BFA_8.3.7-35662/blob/main/banner.png)
 # World of Warcraft – Battle for Azeroth 8.3.7 (Build 35662) TrinityCore
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
